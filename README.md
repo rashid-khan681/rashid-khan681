@@ -122,18 +122,6 @@
   <img src="https://raw.githubusercontent.com/rashid-khan681/rashid-khan681/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </p>
 
-> ⚠️ **Snake yahan tabhi dikhega jab ek chhota GitHub Action set up ho jaayega — steps neeche diye hain.**
-
-<br/>
-
-<details>
-<summary><b>⚙️ How the Snake Animation Works</b></summary>
-<br/>
-A scheduled GitHub Action (<code>snake.yml</code>) reads my daily contribution grid and re-renders it as an animated SVG on an <code>output</code> branch — it refreshes automatically every night, no manual updates needed.
-</details>
-
-<br/>
-
 <div align="center">
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rashid-khan-7314b139a) · [Gmail](mailto:rk8539100@gmail.com) · [GitHub](https://github.com/rashid-khan681)
