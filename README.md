@@ -39,58 +39,49 @@
 
 ## 🏅 Certifications
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<b>Oracle Agentic AI</b><br/>
-Certified Foundations Associate
-</td>
-<td align="center" width="33%">
-<b>Google Cloud</b><br/>
-Data Analytics Certificate
-</td>
-<td align="center" width="33%">
-<b>Kaggle</b><br/>
-Python Coder Badge
-</td>
-</tr>
-</table>
+- 🟠 **Oracle Agentic AI** — Certified Foundations Associate
+- 🔵 **Google Cloud** — Data Analytics Certificate
+- 🟢 **Kaggle** — Python Coder Badge
 
 <br/>
 
 ## 🛠️ Tools & Technologies
 
-<table align="center">
-<tr><td align="center"><b>Linux · Scripting · Version Control</b></td></tr>
-<tr><td align="center">
+**Linux · Scripting · Version Control**
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
-</td></tr>
+</p>
 
-<tr><td align="center"><b>Containers & Orchestration</b></td></tr>
-<tr><td align="center">
+**Containers & Orchestration**
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</td></tr>
+</p>
 
-<tr><td align="center"><b>CI/CD</b></td></tr>
-<tr><td align="center">
+**CI/CD**
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
-</td></tr>
+</p>
 
-<tr><td align="center"><b>Infrastructure as Code</b></td></tr>
-<tr><td align="center">
+**Infrastructure as Code**
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</td></tr>
+</p>
 
-<tr><td align="center"><b>Cloud</b></td></tr>
-<tr><td align="center">
+**Cloud**
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=aws" />
-</td></tr>
+</p>
 
-<tr><td align="center"><b>Languages</b></td></tr>
-<tr><td align="center">
+**Languages**
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,nginx" />
-</td></tr>
-</table>
+</p>
 
 <br/>
 
