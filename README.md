@@ -20,7 +20,6 @@
 
 - 🚀 Building hands-on expertise across the full DevOps lifecycle — Linux, CI/CD, containers, and cloud infrastructure
 - 🧪 Running a public **90 Days of DevOps Challenge** — daily commits from both my MacBook and an EC2 Ubuntu box, zero missed days
-- 🤖 Built **DataPilot**, a multi-agent autonomous data science platform using Google ADK + Gemini 2.0
 - 🏗️ Designed CI/CD pipeline architecture and a multi-region disaster recovery setup as real-world practice projects
 - 🎯 Actively seeking entry-level **Cloud / DevOps Engineer** roles to apply these skills in production environments
 
@@ -55,6 +54,10 @@
 **Infrastructure as Code**
 
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
+**Monitoring & Observability**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 **Cloud**
 
