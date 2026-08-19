@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EE6A6&height=200&section=header&text=Hi%20There,%20I'm%20Rashid%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Fresh%20B.Tech%20CSE%20Grad&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2EE6A6&center=true&vCenter=true&width=600&lines=Automating+builds+%7C+Shipping+pipelines;Terraform+%2B+Kubernetes+%2B+AWS;90+Days+of+DevOps+%E2%80%94+Daily+Commits;Ex-Intern+%40+Zetheta+Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2EE6A6&center=true&vCenter=true&width=600&lines=Automating+builds+%7C+Shipping+pipelines;Terraform+%2B+Kubernetes+%2B+AWS;90+Days+of+DevOps+%E2%80%94+Daily+Commits;Fresh+Grad%2C+Ready+to+Ship" alt="Typing SVG" />
 
 <br/>
 
@@ -19,10 +19,9 @@
 ## 👋 About Me
 
 - 🚀 Building hands-on expertise across the full DevOps lifecycle — Linux, CI/CD, containers, and cloud infrastructure
-- 🏦 Interned at **Zetheta Algorithms Pvt. Ltd.**, architecting CI/CD pipelines and multi-region disaster recovery systems for fintech-style workloads
 - 🧪 Running a public **90 Days of DevOps Challenge** — daily commits from both my MacBook and an EC2 Ubuntu box, zero missed days
 - 🤖 Built **DataPilot**, a multi-agent autonomous data science platform using Google ADK + Gemini 2.0
-- 📜 Certified in Oracle Agentic AI Foundations, Google Cloud Data Analytics & Kaggle Python
+- 🏗️ Designed CI/CD pipeline architecture and a multi-region disaster recovery setup as real-world practice projects
 - 🎯 Actively seeking entry-level **Cloud / DevOps Engineer** roles to apply these skills in production environments
 
 <br/>
@@ -37,51 +36,35 @@
 
 <br/>
 
-## 🏅 Certifications
-
-- 🟠 **Oracle Agentic AI** — Certified Foundations Associate
-- 🔵 **Google Cloud** — Data Analytics Certificate
-- 🟢 **Kaggle** — Python Coder Badge
-
-<br/>
-
 ## 🛠️ Tools & Technologies
+
+<div align="center">
 
 **Linux · Scripting · Version Control**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
-</p>
 
 **Containers & Orchestration**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
 
 **CI/CD**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
-</p>
 
 **Infrastructure as Code**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
 
 **Cloud**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=aws" />
-</p>
 
 **Languages**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=python,nginx" />
-</p>
+
+</div>
 
 <br/>
 
@@ -90,18 +73,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🏦 NovaPay CI/CD Architecture</b><br/>
-      End-to-end CI/CD pipeline design for a fictional digital bank, built during my Zetheta internship — Terraform modules, Kubernetes manifests, runbooks & architecture diagrams.
+      <b>🧠 DataPilot</b><br/>
+      Autonomous multi-agent data science platform — 5 specialized agents (EDA, ML, Security, Review, Reporting) built with Google ADK, MCP servers, Docker & Gradio.
     </td>
     <td width="50%" valign="top">
-      <b>🌍 PaySecure Disaster Recovery</b><br/>
-      Multi-region disaster recovery architecture for a fictional payment gateway — full runbooks and diagrams delivered as internship capstone.
+      <b>🏦 NovaPay CI/CD Architecture</b><br/>
+      End-to-end CI/CD pipeline design for a digital bank use case — Terraform modules, Kubernetes manifests, runbooks & architecture diagrams.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 DataPilot</b><br/>
-      Autonomous multi-agent data science platform — 5 specialized agents (EDA, ML, Security, Review, Reporting) built with Google ADK, MCP servers, Docker & Gradio.
+      <b>🌍 PaySecure Disaster Recovery</b><br/>
+      Multi-region disaster recovery architecture for a payment gateway use case — full runbooks and architecture diagrams.
     </td>
     <td width="50%" valign="top">
       <b>📅 90 Days of DevOps</b><br/>
@@ -116,7 +99,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashid-khan681&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashid-khan681&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=rashid-khan681&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
