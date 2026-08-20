@@ -55,6 +55,10 @@
 
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
 
+**Monitoring and Observability**
+
+<img src="https://skillicons.dev/icons?i=promethrus,grafana" />
+
 **Cloud**
 
 <img src="https://skillicons.dev/icons?i=aws" />
@@ -116,8 +120,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rashid-khan681&theme=tokyonight&no-frame=true&column=3&margin-w=8" width="48%" />
 </p>
 
-> ℹ️ Ye stats **live third-party server se direct** load hoti hain — koi extra GitHub Action set up karne ki zaroorat nahi. Agar kabhi image load na ho to bas page refresh karna, ye services kabhi-kabhi thodi der ke liye slow ho jaati hain.
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -125,20 +127,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rashid-khan681/rashid-khan681/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </p>
-
-> ⚠️ **Snake yahan tabhi dikhega jab ek chhota GitHub Action set up ho jaayega — steps neeche diye hain.**
-
-<br/>
-
-<details>
-<summary><b>⚙️ How the Snake Animation Works</b></summary>
-<br/>
-A scheduled GitHub Action (<code>snake.yml</code>) reads my daily contribution grid and re-renders it as an animated SVG on an <code>output</code> branch — it refreshes automatically every night, no manual updates needed.
-</details>
-
-<br/>
-
-<div align="center">
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rashid-khan-7314b139a) · [Gmail](mailto:rk8539100@gmail.com) · [GitHub](https://github.com/rashid-khan681)
 
