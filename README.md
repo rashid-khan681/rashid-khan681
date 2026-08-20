@@ -11,8 +11,6 @@
 <a href="https://github.com/rashid-khan681"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:rk8539100@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=rashid-khan681&label=Profile%20Views&color=2EE6A6&style=flat-square" alt="profile views"/>
-
 </div>
 
 <br/>
@@ -57,7 +55,7 @@
 
 **Monitoring and Observability**
 
-<img src="https://skillicons.dev/icons?i=promethrus,grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 **Cloud**
 
