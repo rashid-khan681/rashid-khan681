@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EE6A6&height=200&section=header&text=Hi%20There,%20I'm%20Rashid%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Fresh%20B.Tech%20CSE%20Grad&descAlignY=55&descSize=18" width="45%"/>
+# Hi There, I'm Rashid 👋
+### Cloud & DevOps Engineer | Fresh B.Tech CSE Grad
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2EE6A6&center=true&vCenter=true&width=600&lines=Automating+builds+%7C+Shipping+pipelines;Terraform+%2B+Kubernetes+%2B+AWS;90+Days+of+DevOps+%E2%80%94+Daily+Commits;Fresh+Grad%2C+Ready+to+Ship" alt="Typing SVG" />
 
@@ -18,10 +19,9 @@
 
 ## 👋 About Me
 
-- 🚀 Building hands-on expertise across the full DevOps lifecycle — Linux, CI/CD, containers, and cloud infrastructure
-- 🧪 Running a public **90 Days of DevOps Challenge** — daily commits from both my MacBook and an EC2 Ubuntu box, zero missed days
-- 🏗️ Designed CI/CD pipeline architecture and a multi-region disaster recovery setup as real-world practice projects
-- 🎯 Actively seeking entry-level **Cloud / DevOps Engineer** roles to apply these skills in production environments
+- 🚀 **Fresh B.Tech CSE grad** turning theory into production-style systems — Linux, CI/CD, containers, and cloud, all hands-on
+- 🏗️ Architected a **CI/CD pipeline**, a **multi-region disaster recovery setup**, and built **DataPilot** — a multi-agent autonomous data science platform
+- 🎯 Shipping daily on my public **90 Days of DevOps Challenge**, and actively hunting for my first **Cloud / DevOps Engineer** role
 
 <br/>
 
@@ -55,10 +55,6 @@
 
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
 
-**Monitoring & Observability**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-
 **Cloud**
 
 <img src="https://skillicons.dev/icons?i=aws" />
@@ -76,22 +72,32 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 DataPilot</b><br/>
-      Autonomous multi-agent data science platform — 5 specialized agents (EDA, ML, Security, Review, Reporting) built with Google ADK, MCP servers, Docker & Gradio.
+      <b>🏦 <a href="https://github.com/rashid-khan681/Project1A-DevOpsCloudEngineer-Rashid-Khan">Project 1A — CI/CD Pipeline Architecture</a></b><br/>
+      End-to-end CI/CD pipeline design for a digital bank use case — Terraform modules, Kubernetes manifests, runbooks & architecture diagrams.
     </td>
     <td width="50%" valign="top">
-      <b>🏦 NovaPay CI/CD Architecture</b><br/>
-      End-to-end CI/CD pipeline design for a digital bank use case — Terraform modules, Kubernetes manifests, runbooks & architecture diagrams.
+      <b>🌍 <a href="https://github.com/ZethetaIntern/Project1B-DevOpsCloudEngineer-MultiRegionDR-RashidKhan">Project 1B — Multi-Region Disaster Recovery</a></b><br/>
+      Multi-region disaster recovery architecture for a payment gateway use case — full runbooks and architecture diagrams.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🌍 PaySecure Disaster Recovery</b><br/>
-      Multi-region disaster recovery architecture for a payment gateway use case — full runbooks and architecture diagrams.
+      <b>💰 <a href="https://github.com/rashid-khan681/Project1C-CostOptimisation-RashidKhan">Project 1C — Cloud Cost Optimisation</a></b><br/>
+      Cost-optimisation strategy and implementation for cloud infrastructure spend.
     </td>
     <td width="50%" valign="top">
-      <b>📅 90 Days of DevOps</b><br/>
-      Daily hands-on grind — Linux, AWS EC2, Docker, Git troubleshooting, shell scripting, documented in public with two parallel repos.
+      <b>🧠 <a href="https://github.com/rashid-khan681/datapilot">DataPilot</a></b><br/>
+      Autonomous multi-agent data science platform — 5 specialized agents (EDA, ML, Security, Review, Reporting) built with Google ADK, MCP servers, Docker & Gradio.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📅 <a href="https://github.com/rashid-khan681/90DaysOfDevOpsChallengeRashidKhan">90 Days of DevOps — Daily Log</a></b><br/>
+      My personal daily hands-on grind — Linux, AWS EC2, Docker, Git troubleshooting, shell scripting.
+    </td>
+    <td width="50%" valign="top">
+      <b>🍴 <a href="https://github.com/rashid-khan681/90DaysOfDevOps">90 Days of DevOps — Community Fork</a></b><br/>
+      Forked from TrainWithShubham's challenge repo, solved in parallel alongside my own daily log.
     </td>
   </tr>
 </table>
@@ -110,9 +116,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rashid-khan681&theme=tokyonight&no-frame=true&column=3&margin-w=8" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashid-khan681&theme=tokyo-night&hide_border=true" width="98%" />
-</p>
+> ℹ️ Ye stats **live third-party server se direct** load hoti hain — koi extra GitHub Action set up karne ki zaroorat nahi. Agar kabhi image load na ho to bas page refresh karna, ye services kabhi-kabhi thodi der ke liye slow ho jaati hain.
 
 <br/>
 
@@ -121,6 +125,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rashid-khan681/rashid-khan681/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </p>
+
+> ⚠️ **Snake yahan tabhi dikhega jab ek chhota GitHub Action set up ho jaayega — steps neeche diye hain.**
+
+<br/>
+
+<details>
+<summary><b>⚙️ How the Snake Animation Works</b></summary>
+<br/>
+A scheduled GitHub Action (<code>snake.yml</code>) reads my daily contribution grid and re-renders it as an animated SVG on an <code>output</code> branch — it refreshes automatically every night, no manual updates needed.
+</details>
+
+<br/>
 
 <div align="center">
 
