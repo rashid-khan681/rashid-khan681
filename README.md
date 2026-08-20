@@ -95,16 +95,7 @@
 <br/>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashid-khan681&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=rashid-khan681&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-khan681&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rashid-khan681&theme=tokyonight&no-frame=true&column=3&margin-w=8" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rashid-khan681&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" /> <img src="https://streak-stats.demolab.com/?user=rashid-khan681&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-khan681&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-profile-trophy.vercel.app/?username=rashid-khan681&theme=tokyonight&no-frame=true&column=3&margin-w=8" width="48%" /> </p>
 
 <br/>
 
