@@ -3,17 +3,10 @@
 # Hi There, I'm Rashid 👋
 ### Cloud & DevOps Engineer | Fresh B.Tech CSE Grad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2EE6A6&center=true&vCenter=true&width=600&lines=Automating+builds+%7C+Shipping+pipelines;Terraform+%2B+Kubernetes+%2B+AWS;90+Days+of+DevOps+%E2%80%94+Daily+Commits;Fresh+Grad%2C+Ready+to+Ship" alt="Typing SVG" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EE6A6&height=200&section=header&text=Hi%20There%2C%20I%20am%20Rashid%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Fresh%20B.Tech%20CSE%20Grad&descAlignY=55&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2EE6A6&center=true&vCenter=true&width=600&lines=Automating+builds+%7C+Shipping+pipelines;Terraform+%2B+Kubernetes+%2B+AWS;90+Days+of+DevOps+%E2%80%94+Daily+Commits;Fresh+Grad%2C+Ready+to+Ship" alt="Typing SVG" /> <br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/rashid-khan-7314b139a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rashid-khan681"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:rk8539100@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<br/>
+<a href="https://www.linkedin.com/in/rashid-khan-7314b139a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/rashid-khan681"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:rk8539100@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ </div> <br/>
 
 ## 👋 About Me
 
