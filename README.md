@@ -90,6 +90,12 @@
       Forked from TrainWithShubham's challenge repo, solved in parallel alongside my own daily log.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🍴 <a href="https://github.com/rashid-khan681/mern-task-management-app">mern-task-management-app</a></b><br/>
+      MERN Task Management App - Dockerized & Deployed on AWS EC2 (A full-stack task management app where users can sign up, log in, and create/manage their own tasks with priority levels.)
+    </td>
+  </tr>
 </table>
 
 <br/>
