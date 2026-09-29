@@ -96,8 +96,8 @@
       MERN Task Management App - Dockerized & Deployed on AWS EC2 (A full-stack task management app where users can sign up, log in, and create/manage their own tasks with priority levels.)
     </td>
     <td width="50%" valign="top">
-      <b> <a href=https://github.com/rashid-khan681/nexus-dashboard>Nexus-dashboard</a></b><br/>
-      A real-time, 3-tier infrastructure telemetry dashboard built to visualize network topology, compute allocation, and socket connections with microsecond latency, Dockerized and Deployed it to server.(Docker & Docker Compose (for containerized deployment))
+      <b> <a href=https://github.com/rashid-khan681/nexus-dashboard>Nexus-dashboard (Docker Project)</a></b><br/>
+      A real-time, 3-tier infrastructure telemetry dashboard built to visualize network topology, compute allocation, and socket connections with microsecond latency.(Docker & Docker Compose (for containerized deployment))
     </td>
   </tr>
 </table>
